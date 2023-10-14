@@ -5,6 +5,22 @@
 .navbar{
     background-image: linear-gradient(to right, #a1fcdf, #09db99);
 }
-.container-banner{
+#banner{
     background-image: linear-gradient(to right, #a1fcdf, #09db99);
+    padding-top: 5%;
+}
+.text-perkenalkan{
+    margin-top: 100px;
+    font-weight: 600;
+    font-size: 40px;
+}
+.text-biodata{
+    font-size: 20px;
+}
+.foto-profile{
+    width: 110%;
+}
+.bottom-img{
+    width: 100%;
+
 }
