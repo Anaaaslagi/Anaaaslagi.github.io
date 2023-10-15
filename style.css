@@ -1,6 +1,7 @@
 #nav-bar{
-    position: relative;
+    position: sticky ;
     top: 0;
+    z-index: 1;
     background-image: linear-gradient(to right, #a1fcdf, #09db99);
     padding-bottom: 5px;
 }
@@ -19,7 +20,7 @@
 #banner{
     background-image: linear-gradient(to right, #a1fcdf, #09db99);
     padding-top: 5%;
-    position: relative;
+    
 }
 .text-perkenalkan{
     margin-top: 100px;
