@@ -5,23 +5,27 @@
     background-image: linear-gradient(to right, #a1fcdf, #09db99);
     padding-bottom: 5px;
 }
+
 .fa-emoji{
     padding-right: 5px;
 }
+
 .nav-link{
     color: black;
     font-weight: 500;
     
 }
+
 .navbar-brand{
     color: black;
     font-weight: 600;
 }
+
 #banner{
     background-image: linear-gradient(to right, #a1fcdf, #09db99);
     padding-top: 5%;
-    
 }
+
 .text-perkenalkan{
     margin-top: 100px;
     font-weight: 600;
@@ -30,22 +34,27 @@
 .text-biodata{
     font-size: 20px;
 }
+
 .foto-profile{
     width: 110%;
 }
+
 .bottom-img{
     width: 100%;
-
 }
+
 #content{
     padding-top: 20px;
 }
+
 .text-content{
     padding-top: 20px;
 }
+
 .image-content{
     width: 100%;
 }
+
 #contact-form{
     background-color:#f8f9fa;
     margin-top: 5%;
