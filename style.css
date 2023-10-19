@@ -121,7 +121,7 @@ html{
 
 .address-link{
     color: black;
-    
+    font-weight: 500;
 }
 
 .address-link:hover{
