@@ -52,6 +52,11 @@ html{
 
 .foto-profile{
     width: 115%;
+    transition: 0.8s;
+}
+
+.foto-profile:hover{
+    transform: scale(1.3);
 }
 
 .bottom-img{
