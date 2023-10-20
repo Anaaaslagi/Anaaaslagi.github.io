@@ -38,7 +38,7 @@ html{
 
 .navbar-brand-fadeup::before{
     width: 100%;
-    bottom: 5px;
+    bottom: 6px;
     opacity: 0;
 }
 
