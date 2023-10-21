@@ -190,5 +190,30 @@ html{
 
 #form{
     background-color: #F7F2F2;
-    padding-top: 5%;
+    padding-top: 70px;
 }
+
+.submit-btn{
+    display: inline-block;
+    padding: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: rgb(66, 164, 69);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px #999;
+}
+
+.submit-btn:hover{
+    background-color: #3e8e41
+}
+
+.submit-btn:active {
+    background-color: #3e8e41;
+    box-shadow: 0 2px #666;
+    transform: translateY(4px);
+  }
