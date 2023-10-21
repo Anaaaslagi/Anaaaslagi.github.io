@@ -90,6 +90,30 @@ html{
     margin-left: 12px;
 }
 
+.socials{
+    float: right;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    padding-top: 15px;
+    font-weight: 600;
+}
+
+.fa-brands{
+    opacity: 0.75;
+    padding-left: 15px;
+}
+
+.fa-brands:hover{
+    opacity: 1;
+}
+
+.socials a:visited{
+    color: black;
+}
+
+
+
 /*Banner Section*/
 
 #banner{
@@ -218,3 +242,4 @@ html{
     box-shadow: 0 2px #666;
     transform: translateY(4px);
   }
+
