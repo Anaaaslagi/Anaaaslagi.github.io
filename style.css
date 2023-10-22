@@ -243,3 +243,8 @@ html{
     transform: translateY(4px);
   }
 
+/*Footer Section*/
+
+#footer{
+    padding: 15px;
+}
